@@ -22,3 +22,11 @@ if enter_number_3 == "/"
     res = enter_number_1.to_f / enter_number_2.to_f
     print("Result is: #{res} \n")
 end
+if enter_number_3 == "/"
+    res = enter_number_1.to_f / enter_number_2.to_f
+    print("Result is: #{res} \n")
+end
+if enter_number_3 == "/"
+    res = enter_number_1.to_f / enter_number_2.to_f
+    print("Result is: #{res} \n")
+end
