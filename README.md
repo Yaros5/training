@@ -1,1 +1,3 @@
 # training
+
+add some info
